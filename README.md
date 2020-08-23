@@ -8,6 +8,6 @@ Various Querying, Cleaning and Plotting on the same data.
   + Python, Jupyter
     I have included an HTML file demonstrating cleaning and plotting using Python that was created using Jupyter. The HTML file is named 'Jupyter - Python.html' and the original Jupyter script is included and named 'Jupyter - Python.ipynb'. This dataset is one that is the modified one after completing some cleaning with R and is a zip file named 'CleanedHotelReviews.7z'.
    + Tableau
-     I have included a pdf document that was created using Tableau named 'Hotel Reviews in Tableau.pdf'. The document illustrates filtering and creating sets along with plotting in Tableau. The original Tableau file is also included and is named 'Hotel Reviews in Tableau.twb'. The compressed data set for this is named 'HotelsForTableau.7z' and is included as well. It was the output file from the Python report.
+     I have included a pdf document that was created using Tableau named 'Hotel Reviews in Tableau.pdf'. The document illustrates filtering and creating sets along with plotting in Tableau. The compressed original Tableau file is also included and is named 'Hotel Reviews in Tableau.7z'. The compressed data set for this is named 'HotelsForTableau.7z' and is included as well. It was the output file from the Python report.
    + SQL
   Not yet uploaded
