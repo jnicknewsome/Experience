@@ -1,4 +1,4 @@
-# Qualifications
+# Experience
 Various Querying, Cleaning and Plotting on the same data.  
   
   This repository is designed to showcase my skills. I do not have any professional experience in the data analyst field. It is my hopes that this will better demonstrate my abilities. In addition, I think it will demonstrate my desire and motivation as well as being self-driven in case I am being considered for a remote (work from home) position. I have taken a csv file with 515,738 rows and 17 columns of hotel reviews. A highly compressed verions of this file is in this repository and named 'Hotel_Reviews.7z'. This file will need to be extracted to run the code on it. If there is a problem with this file, please download the original zip file at https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe. Also, the code for the R report requires a Google API Key to run. This is not provided. If you are going to run the code, you will need to input your key at the appropriate line of code.  
